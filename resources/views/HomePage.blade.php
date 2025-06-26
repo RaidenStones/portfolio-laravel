@@ -466,7 +466,7 @@
             </div>
         </div>
         <div class="container">
-            <h3 style="margin-top: 50px;">L’ergonomie et l’accessibilité sont visibles dans plusieurs choix de conception :</h3>
+            <h3 style="margin-top: 50px;">L'ergonomie et l'accessibilité sont visibles dans plusieurs choix de conception :</h3>
         </div>
         <div class="comp-grid">
             <div class="comp-card" style="margin-left: 300px; margin-top: 100px;">
@@ -506,7 +506,7 @@
                     </video>
                 </div>
                 <div class="comp-content">
-                    <h3>Les menus de pause et de mort permettent de reprendre ou d’arrêter la partie de manière fluide</h3>
+                    <h3>Les menus de pause et de mort permettent de reprendre ou d'arrêter la partie de manière fluide</h3>
                 </div>
             </div>
         </div>
@@ -519,7 +519,7 @@
             </div>
         </div>
         <div class="container">
-            <h3 style="margin-top: 50px;">Ce projet illustre l’adoption de bonnes pratiques de conception à plusieurs niveaux :</h3>
+            <h3 style="margin-top: 50px;">Ce projet illustre l'adoption de bonnes pratiques de conception à plusieurs niveaux :</h3>
         </div>
         <div class="comp-grid">
             <div class="comp-card" style="margin-left: 300px; margin-top: 100px;">
@@ -535,7 +535,7 @@
                     <img src="https://res.cloudinary.com/dgvchkuk9/image/upload/v1750444500/heritage_kauyxp.png" alt="modularite">
                 </div>
                 <div class="comp-content">
-                    <h3>Réutilisation et héritage : utilisation de classes et de l’héritage pour définir différents types d’ennemis, centraliser la gestion des attaques et des comportements,</h3>
+                    <h3>Réutilisation et héritage : utilisation de classes et de l'héritage pour définir différents types d'ennemis, centraliser la gestion des attaques et des comportements,</h3>
                 </div>
             </div>
         </div>
@@ -555,7 +555,7 @@
                     <img src="https://res.cloudinary.com/dgvchkuk9/image/upload/v1750444939/commentaires4_vzcbjw.png" alt="modularite">
                 </div>
                 <div class="comp-content">
-                    <h3>Réutilisation et héritage : utilisation de classes et de l’héritage pour définir différents types d’ennemis, centraliser la gestion des attaques et des comportements,</h3>
+                    <h3>Réutilisation et héritage : utilisation de classes et de l'héritage pour définir différents types d'ennemis, centraliser la gestion des attaques et des comportements,</h3>
                 </div>
             </div>
         </div>
@@ -600,7 +600,7 @@
                     </video>
                 </div>
                 <div class="comp-content">
-                    <h3>Tests ergonomie : ajustement de l’interface (affichage des cœurs, menus) et des contrôles en fonction des retours des utilisateurs/testeurs pour garantir une expérience fluide et agréable</h3>
+                    <h3>Tests ergonomie : ajustement de l'interface (affichage des cœurs, menus) et des contrôles en fonction des retours des utilisateurs/testeurs pour garantir une expérience fluide et agréable</h3>
                 </div>
             </div>
             <div class="comp-card" style="margin-right: 300px; margin-top: 100px;">
