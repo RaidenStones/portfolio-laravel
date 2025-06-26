@@ -7,6 +7,9 @@ use App\Http\Controllers\AppCritController;
 //Route::get('/', function () {
     //return view('HomePage');
 //});
+Route::get('/test', function () {
+    return 'Laravel fonctionne 🎉';
+});
 
 Route::get('/', function () {
     return view('accueil');
